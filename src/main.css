@@ -19,6 +19,7 @@
     border-radius: 10px;
     color: black;
     font-weight: 500;
+    overflow: auto;
 }
 
 .Box-2{
@@ -30,6 +31,7 @@
     border-radius: 10px;
     color: black;
     font-weight: 500;
+    overflow: auto;
 }
 
 .items{
@@ -46,13 +48,13 @@
     height: 30px;
     background-color: silver;
     border-radius: 5px;
-    color: aquamarine;
+    color: black;
     font-weight: 900;
 }
 
 .btn:hover{
-    background-color:  aquamarine;
-    color: black;
+    background-color: black;
+    color: white;
     cursor: pointer;
 }
 
